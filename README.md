@@ -1,0 +1,4 @@
+# Yahoo_mail_monitoring
+运用python3.6+selenium测试工具自动监测邮件任务，将发件箱内容实时更新到本地
+
+后期更新更多邮件自动收发群发功能
